@@ -100,3 +100,5 @@ Theme toggle (light/dark)
 
 Lyrics support
 
+
+![spotify clone Screenshot](spotify clone demo.png)
